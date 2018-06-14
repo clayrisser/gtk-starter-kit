@@ -15,8 +15,8 @@ Please ★ this repo if you found it useful ★ ★ ★
 ## Dependencies
 
 * [GTK+ 2.0](https://www.gtk.org)
-* [Automake](https://www.gnu.org/software/automake)
-* [Autoconf](https://www.gnu.org/software/autoconf)
+* [GNU Automake](https://www.gnu.org/software/automake)
+* [GNU Autoconf](https://www.gnu.org/software/autoconf)
 
 
 ## Usage
