@@ -7,9 +7,15 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+[*.ac]
+charset = utf-8
+
 [*.md]
 charset = utf-8
 trim_trailing_whitespace = false
+
+[*.{c,h}]
+charset = utf-8
 
 [{m,M}akefile*]
 charset = utf-8
