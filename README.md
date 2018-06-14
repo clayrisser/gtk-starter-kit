@@ -33,7 +33,7 @@ Submit an [issue](https://github.com/codejamninja/gtk-starter-kit/issues/new)
 
 ## Screenshots
 
-[Contribute](https://github.com/codejamninja/gtk-starter-kit/blob/master/CONTRIBUTING.md) a screenshot
+![Screenshot 1](https://user-images.githubusercontent.com/6234038/41393079-b4de86aa-6f69-11e8-967d-5d556a87ac93.jpg)
 
 
 ## Contributing
